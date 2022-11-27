@@ -1,0 +1,32 @@
+{
+  "name": "wanokai",
+  "displayName": "Wanokai",
+  "description": "Just personal likely theme from Wanokuni",
+  "version": "1.0.0",
+  "publisher": "gochujjang",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "gochujjang",
+    "wanokai",
+    "wanokuni",
+    "Wanokai Theme",
+    "Wanokai tema",
+    "rehankurnia"
+  ],
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wanokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wanokai-color-theme.json"
+      }
+    ]
+  }
+}
