@@ -4,6 +4,10 @@
   "description": "Just personal likely theme from Wanokuni",
   "version": "1.0.0",
   "publisher": "gochujjang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gochujjang/wanokai-vscode-theme"
+  },
   "keywords": [
     "theme",
     "dark theme",

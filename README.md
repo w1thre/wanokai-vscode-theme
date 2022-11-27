@@ -1,16 +1,23 @@
 # Wanokai Dark Theme
 
-## Working with Markdown
+## Wanokai Dark Theme v1.0.0
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+So this is my first theme for personal use,\
+Inspired by Wanokuni Island from One Piece.
+![](https://i.imgur.com/6afKVZH.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+```
+This theme is still under the development, but you can still use it anyways.
+```
 
-## For more information
+## Installing
+This extension is available for free in the Visual Studio Code Marketplace
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
+Hope you like it,
 **Enjoy!**
+
+## Whats's new?
+nothing
+
+## Dev
+[gochujjang](https://github.com/gochujjang)

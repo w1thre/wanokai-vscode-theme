@@ -9,7 +9,7 @@
 		"editor.selectionBackground": "#5f524a",
 		"editor.selectionHighlightBackground": "#504945",
 		"sideBar.background": "#130F1A",
-		"sideBarSectionHeader.background": "#141414",
+		"sideBarSectionHeader.background": "#130F1A",
 		"list.activeSelectionBackground": "#504945",
 		"list.focusOutline": "#504945",
 		"editorGroupHeader.border": "#1b1b1b",
