@@ -1,4 +1,4 @@
-# wanokai README
+# Wanokai Dark Theme
 
 ## Working with Markdown
 
